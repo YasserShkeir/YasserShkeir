@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassershkeir&label=Profile%20views&color=0e75b6&style=flat" alt="yassershkeir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassershkeir" alt="yassershkeir" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassershkeir" alt="yassershkeir" /></a><img src="https://camo.githubusercontent.com/0d7b3e0e859b517827f39d16ab12afc2dc081b4c7e953e54f381e8c018218d17/68747470733a2f2f632e74656e6f722e636f6d2f4e7a727151484642567a38414141416a2f6b697474792d7472616e73706172656e742e676966" alt="cats" /> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
