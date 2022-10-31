@@ -91,8 +91,8 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
     </a> 
   </p>
-  
+  <br/>
 </p>
 
-<p>Activity Chart for the past year:</p>
-<p><img align="center" src="./profile-3d-contrib/profile-gitblock.svg" alt="3d" width="350" /></p>
+<h4>Activity Chart for the past year:</h4>
+<p><img align="center" src="./profile-3d-contrib/profile-gitblock.svg" alt="3d" width="75%" /></p>
