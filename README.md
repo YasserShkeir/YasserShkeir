@@ -94,6 +94,4 @@
   
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassershkeir&show_icons=true&locale=en&layout=compact" alt="yassershkeir" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yassershkeir&show_icons=true&locale=en" alt="yassershkeir"/></p>
+<p><img align="center" src="![](./profile-3d-contrib/profile-green-animate.svg)" alt="3d" /></p>
