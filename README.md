@@ -94,4 +94,5 @@
   
 </p>
 
-<p><img align="center" src="![](./profile-3d-contrib/profile-green-animate.svg)" alt="3d" /></p>
+<p>Activity Chart for the past year:</p>
+<p><img align="center" src="./profile-3d-contrib/profile-gitblock.svg" alt="3d" width="350" /></p>
