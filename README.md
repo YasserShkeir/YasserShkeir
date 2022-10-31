@@ -95,4 +95,4 @@
 </p>
 
 <h4>Activity Chart for the past year:</h4>
-<p><img align="center" src="./profile-3d-contrib/profile-gitblock.svg" alt="3d" width="75%" /></p>
+<p><img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d" width="75%" /></p>
