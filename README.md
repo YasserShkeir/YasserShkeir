@@ -6,12 +6,12 @@
 <img src="https://komarev.com/ghpvc/?username=yassershkeir&label=Profile%20views&color=green&style=for-the-badge" alt="yassershkeir" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassershkeir" alt="yassershkeir" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=yassershkeir&margin-w=15&column=4&theme=matrix&title=MultiLanguage,Commits,Followers,Repositories" alt="yassershkeir" align="center" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <p align="left">
-    <h4>Prog</h4>
+    <h4>Prog:</h4>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
