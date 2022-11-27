@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yasser Shkeir</h1>
-<h3 align="center">A passionate Full Stack developer from Lebanon</h3>
+<h1 align="left">Hi, I'm Yasser Shkeir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
+<h3 align="left">
+  A passionate Fullstack developer from Lebanon
+  <img align="right" src="https://camo.githubusercontent.com/0d7b3e0e859b517827f39d16ab12afc2dc081b4c7e953e54f381e8c018218d17/68747470733a2f2f632e74656e6f722e636f6d2f4e7a727151484642567a38414141416a2f6b697474792d7472616e73706172656e742e676966" alt="cats" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=yassershkeir&label=Profile%20views&color=23CE6B&style=for-the-badge" alt="yassershkeir" />
+</h3>
 
-<p align="center">
-<img src="https://camo.githubusercontent.com/0d7b3e0e859b517827f39d16ab12afc2dc081b4c7e953e54f381e8c018218d17/68747470733a2f2f632e74656e6f722e636f6d2f4e7a727151484642567a38414141416a2f6b697474792d7472616e73706172656e742e676966" alt="cats" />
-<img src="https://komarev.com/ghpvc/?username=yassershkeir&label=Profile%20views&color=23CE6B&style=for-the-badge" alt="yassershkeir" />
-</p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=yassershkeir&margin-w=15&column=4&theme=matrix&title=MultiLanguage,Commits,Followers,Repositories" alt="yassershkeir" align="center" /></a> </p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="cats" />
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
