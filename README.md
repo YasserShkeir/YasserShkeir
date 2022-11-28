@@ -108,7 +108,5 @@
 
 <h4>Activity Chart for the past year:</h4>
 <p align="left">
-  <img align="center" src="./profile-3d-contrib/profile-night-green.svg" alt="3d" width="45%" />
-   | 
-  <img align="center" src="./profile-3d-contrib/profile-night-green.svg" alt="3d" width="45%" />
+  <img align="center" src="./profile-3d-contrib/profile-night-green.svg" alt="3d" width="95%" />
 </p>
