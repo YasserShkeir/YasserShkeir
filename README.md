@@ -1,13 +1,24 @@
 <h1 align="left">Hi, I'm Yasser Shkeir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 <h3 align="left">
-  A passionate Fullstack developer from Lebanon
-  <img align="right" src="https://camo.githubusercontent.com/0d7b3e0e859b517827f39d16ab12afc2dc081b4c7e953e54f381e8c018218d17/68747470733a2f2f632e74656e6f722e636f6d2f4e7a727151484642567a38414141416a2f6b697474792d7472616e73706172656e742e676966" alt="cats" />
+  💪 A passionate Fullstack developer from Lebanon
   <img align="right" src="https://komarev.com/ghpvc/?username=yassershkeir&label=Profile%20views&color=23CE6B&style=for-the-badge" alt="yassershkeir" />
 </h3>
 
-<br>
 <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="cats" />
 <br>
+
+<p>
+<h3 align="left">🤔 What am I doing these days?<img align="right" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="300" /></h3>
+<ul align="left">
+  <li>💻 working on Fallah, and some other personal projects.</li>
+  <li>🧠 learning how to use React and React Native better.</li>
+  <li>👨‍💻 improving my time management skills.</li>
+  <li>🌅 sticking to a healthy sleep schedule.</li>
+  <li>🪴 taking care of my lovely plants.</li>
+</ul>
+</p>
+
+<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -96,4 +107,8 @@
 </p>
 
 <h4>Activity Chart for the past year:</h4>
-<p><img align="center" src="./profile-3d-contrib/profile-night-green.svg" alt="3d" width="80%" /></p>
+<p align="left">
+  <img align="center" src="./profile-3d-contrib/profile-night-green.svg" alt="3d" width="45%" />
+   | 
+  <img align="center" src="./profile-3d-contrib/profile-night-green.svg" alt="3d" width="45%" />
+</p>
