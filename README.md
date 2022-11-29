@@ -20,6 +20,16 @@
 
 <br><br>
 
+<h3 align="left">Connect with me:</h3>
+<h1>
+<a href="https://www.linkedin.com/in/yasser-shkeir/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedin" width="40" height="40"/> 
+</a>
+<a href="https://portfolio-yassershkeir.vercel.app/" target="_blank" rel="noreferrer"> 
+  <img src="https://i.postimg.cc/BZDJmcR0/Y-S.png" alt="linkedin" width="40" height="40"/> 
+</a>
+</h1>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <p align="left">
