@@ -21,14 +21,10 @@
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
-<h1>
-<a href="https://www.linkedin.com/in/yasser-shkeir/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedin" width="40" height="40"/> 
-</a>
-<a href="https://portfolio-yassershkeir.vercel.app/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.postimg.cc/BZDJmcR0/Y-S.png" alt="linkedin" width="40" height="40"/> 
-</a>
-</h1>
+
+| Portfolio | LinkedIn | Hackerrank | Leetcode |
+| :-: | :-: | :-: | :-: |
+| [<img src="https://i.postimg.cc/BZDJmcR0/Y-S.png" alt="portfolio" width="45" height="45"/>](https://portfolio-yassershkeir.vercel.app/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedin" width="40" height="40"/>](https://www.linkedin.com/in/yasser-shkeir/) | [<img src="https://repository-images.githubusercontent.com/253395053/f2f38a80-8182-11ea-8059-91f14f9a3274" alt="Hackerrank" width="45" height="45"/>](https://www.hackerrank.com/shkeiryasser) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" alt="Leetcode" width="40" height="45"/>](https://leetcode.com/YasserShkeir/) |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
