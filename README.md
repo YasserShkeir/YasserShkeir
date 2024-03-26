@@ -10,11 +10,10 @@
 <p>
 <h3 align="left">🤔 What am I doing these days?<img align="right" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="300" /></h3>
 <ul align="left">
-  <li>💻 teaching coding to students worldwide.</li>
-  <li>🧠 learning TypeScript and LAMP stack.</li>
-  <li>👨‍💻 improving my time management skills.</li>
-  <li>🌅 sticking to a healthy sleep schedule.</li>
-  <li>🪴 taking care of my lovely plants.</li>
+  <li>🧠 Learning DevOps.</li>
+  <li>👨‍💻 Improving my time management skills.</li>
+  <li>🌅 Sticking to a healthy sleep schedule.</li>
+  <li>🪴 Taking care of my lovely plants.</li>
 </ul>
 </p>
 
