@@ -1,8 +1,11 @@
 <h1 align="left">Hi, I'm Yasser Shkeir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 <h3 align="left">
-  💪 A passionate Fullstack developer from Lebanon
+  💪 A passionate Fullstack developer from Earth
   <img align="right" src="https://komarev.com/ghpvc/?username=yassershkeir&label=Profile%20views&color=23CE6B&style=for-the-badge" alt="yassershkeir" />
 </h3>
+<h5 align="left">
+  I do alot of things, mainly Fullstack Development at GreenTomatoMedia, but I also consult! Reach out if you think that your business can be improved using software
+</h5>
 
 <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="cats" />
 <br>
