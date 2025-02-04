@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Yasser Shkeir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 <h3 align="left">
-  💪 A passionate Fullstack developer from Earth
+  💪 A passionate Fullstack developer from Lebanon
   <img align="right" src="https://komarev.com/ghpvc/?username=yassershkeir&label=Profile%20views&color=23CE6B&style=for-the-badge" alt="yassershkeir" />
 </h3>
 <h5 align="left">
