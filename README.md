@@ -13,7 +13,7 @@
 <p>
 <h3 align="left">🤔 What am I doing these days?<img align="right" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="300" /></h3>
 <ul align="left">
-  <li>Living the life of a digital nomad</li>
+  <li>Writing code</li>
 </ul>
 </p>
 
