@@ -4,16 +4,18 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=yassershkeir&label=Profile%20views&color=23CE6B&style=for-the-badge" alt="yassershkeir" />
 </h3>
 <h5 align="left">
-  I do alot of things, mainly Fullstack Development at GreenTomatoMedia, but I also consult! Reach out if you think that your business can be improved using software
+  I'm a Computer Science graduate with experience at multiple startups. I founded <a href="https://orderscribe.com" target="_blank" rel="noreferrer">OrderScribe</a>, delivering software and hardware solutions for restaurants. Currently, I'm working as an Enterprise Fullstack Developer at GreenTomatoMedia. I also offer consulting services to help businesses leverage software for growth.
 </h5>
 
 <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="cats" />
 <br>
 
 <p>
-<h3 align="left">🤔 What am I doing these days?<img align="right" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="300" /></h3>
+<h3 align="left">🤔 What am I doing these days?</h3>
 <ul align="left">
-  <li>Writing code</li>
+  <li>Leading product development at <strong>OrderScribe</strong> (<a href="https://orderscribe.com" target="_blank" rel="noreferrer">orderscribe.com</a>)</li>
+  <li>Building enterprise applications at GreenTomatoMedia</li>
+  <li>Providing software consulting to drive business growth</li>
 </ul>
 </p>
 
@@ -40,10 +42,7 @@
     </a> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a> 
@@ -110,6 +109,13 @@
   </p>
   <br/>
 </p>
+
+<!-- Featured Projects -->
+<h3 align="left">🚀 Featured Projects</h3>
+<ul align="left">
+  <li><strong>OrderScribe</strong>: Founded and scaled a hardware & software platform for restaurants, streamlining order management and analytics. <a href="https://orderscribe.com" target="_blank" rel="noreferrer">orderscribe.com</a></li>
+  <li><strong>Enterprise Solutions at GreenTomatoMedia</strong>: Developing fullstack applications for high-scale clients, focusing on performance, security, and maintainability.</li>
+</ul>
 
 <h4>Activity Chart for the past year:</h4>
 <p align="left">
