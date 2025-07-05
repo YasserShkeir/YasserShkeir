@@ -1,10 +1,10 @@
 <h1 align="left">Hi, I'm Yasser Shkeir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 <h3 align="left">
-  💪 A passionate Fullstack developer from Lebanon
+  Senior Fullstack Developer & Open Source Contributor
   <img align="right" src="https://komarev.com/ghpvc/?username=yassershkeir&label=Profile%20views&color=23CE6B&style=for-the-badge" alt="yassershkeir" />
 </h3>
 <h5 align="left">
-  I'm a Computer Science graduate with experience at multiple startups. I founded <a href="https://orderscribe.com" target="_blank" rel="noreferrer">OrderScribe</a>, delivering software and hardware solutions for restaurants. Currently, I'm working as an Enterprise Fullstack Developer at GreenTomatoMedia. I also offer consulting services to help businesses leverage software for growth.
+  Computer Science graduate with extensive experience in enterprise software development and startup environments. Founder of <a href="https://orderscribe.com" target="_blank" rel="noreferrer">OrderScribe</a>, a comprehensive platform delivering integrated software and hardware solutions for the restaurant industry. Currently serving as an Enterprise Fullstack Developer at GreenTomatoMedia, focusing on scalable applications and system architecture. Active contributor to the Django ecosystem and provider of technical consulting services for business growth and digital transformation.
 </h5>
 
 <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="cats" />
@@ -15,6 +15,7 @@
 <ul align="left">
   <li>Leading product development at <strong>OrderScribe</strong> (<a href="https://orderscribe.com" target="_blank" rel="noreferrer">orderscribe.com</a>)</li>
   <li>Building enterprise applications at GreenTomatoMedia</li>
+  <li>Contributing to the Django ecosystem and maintaining open source projects</li>
   <li>Providing software consulting to drive business growth</li>
 </ul>
 </p>
@@ -113,8 +114,16 @@
 <!-- Featured Projects -->
 <h3 align="left">🚀 Featured Projects</h3>
 <ul align="left">
-  <li><strong>OrderScribe</strong>: Founded and scaled a hardware & software platform for restaurants, streamlining order management and analytics. <a href="https://orderscribe.com" target="_blank" rel="noreferrer">orderscribe.com</a></li>
-  <li><strong>Enterprise Solutions at GreenTomatoMedia</strong>: Developing fullstack applications for high-scale clients, focusing on performance, security, and maintainability.</li>
+  <li><strong>OrderScribe</strong>: Founded and scaled a comprehensive hardware & software platform for restaurants, streamlining order management, analytics, and operational efficiency. <a href="https://orderscribe.com" target="_blank" rel="noreferrer">orderscribe.com</a></li>
+  <li><strong>Enterprise Solutions at GreenTomatoMedia</strong>: Developing high-performance fullstack applications for enterprise clients, with focus on scalability, security, and maintainability.</li>
+  <li><strong>django-smart-ratelimit</strong>: Created and maintain a flexible, high-performance rate limiting library for Django applications with support for multiple backends and algorithms. <a href="https://pypi.org/project/django-smart-ratelimit/" target="_blank" rel="noreferrer">PyPI Package</a></li>
+</ul>
+
+<h3 align="left">🌟 Open Source Contributions</h3>
+<ul align="left">
+  <li><strong>Django Ecosystem</strong>: Active contributor to Django-related projects and maintainer of production-ready packages</li>
+  <li><strong>django-smart-ratelimit</strong>: Authored a comprehensive rate limiting solution featuring atomic Redis operations, sliding window algorithms, and flexible configuration options</li>
+  <li><strong>Community Impact</strong>: Developing tools that solve real-world problems for Django developers and production applications</li>
 </ul>
 
 <h4>Activity Chart for the past year:</h4>
